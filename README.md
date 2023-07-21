@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Mlaouhi</h1>
 <h3 align="center">a passionate Full stack Mobile Engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif">
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
