@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="auto" src="https://technobrains.io/wp-content/uploads/2021/07/flutter-Featured-Blog-Image2.jpg" height="120px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://technobrains.io/wp-content/uploads/2021/07/flutter-Featured-Blog-Image2.jpg" height="120px"/></a>
 
 <h1 align="center">Hi 👋, I'm Hamza Mlaouhi</h1>
 <h3 align="center">a passionate Full stack Mobile Engineer from Tunisia</h3>
