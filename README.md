@@ -1,3 +1,5 @@
+<a href="#"><img width="80%" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fitchronicles.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fbigstock-Programming-Web-Banner-Best-P-258081862.jpg&f=1&nofb=1" height="120px"/></a>
+
 <h1 align="center">Hi 👋, I'm Hamza Mlaouhi</h1>
 <h3 align="center">a passionate Full stack Mobile Engineer from Tunisia</h3>
 
