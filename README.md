@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://technobrains.io/wp-content/uploads/2021/07/flutter-Featured-Blog-Image2.jpg" height="120px"/></a>
 
 <h1 align="center">Hi 👋, I'm Hamza Mlaouhi</h1>
-<h3 align="center">a passionate Full stack Mobile Engineer from Tunisia</h3>
+<h3 align="center">a passionate Full-stack Senior Mobile Engineer from Tunisia</h3>
  
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 📄 Know about my experiences **I have 2 years of Mobile development**
+- 📄 Know about my experiences **I have 3 years of Mobile development**
 
 - 💬 Ask me about **Flutter, Android, Ios**
 
