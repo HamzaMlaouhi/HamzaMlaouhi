@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **Hamza0mlaouhi@gmail.com**
 
-- ⚡ Fun fact **I love to drink ask me sometime if you want**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-mlaouhi-37b2a01b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-mlaouhi-37b2a01b5/" height="30" width="40" /></a>
