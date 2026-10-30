@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Hamza%20Mlaouhi&fontSize=42&fontColor=ffffff&desc=Senior%20Mobile%20Engineer%20·%20Flutter%20·%20Android%20·%20iOS&descAlignY=72&descSize=16" width="100%" alt="Hamza Mlaouhi banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Hamza%20Mlaouhi&fontSize=42&fontColor=000000&desc=Senior%20Mobile%20Engineer%20·%20Flutter%20·%20Android%20·%20iOS&descAlignY=72&descSize=16" width="100%" alt="Hamza Mlaouhi banner"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-mlaouhi-37b2a01b5/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza0mlaouhi@gmail.com)
