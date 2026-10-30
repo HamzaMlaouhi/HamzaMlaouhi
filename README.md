@@ -9,13 +9,13 @@
 
 ## About Me
 
-I'm a **Senior Mobile Engineer** with **6+ years of experience** building production apps for Android and iOS. I mainly work in **Flutter**, and I also build the backend services my apps need.
+I'm a **Senior Mobile Engineer** with **6+ years of experience** building production apps for Android and iOS and I also build the backend services my apps need.
 
 - 📍 Based in **Essen, Germany**
-- 📱 I build cross-platform apps with Flutter, plus native Android (Kotlin/Java) and iOS (Swift)
+- 📱 I build cross-platform apps with Flutter,React native for cross-platform plus native Android (Kotlin/Java) and iOS (Swift)
 - 🛠️ I build backends and APIs with Node.js, Spring and Firebase
-- 🤝 I'm open to collaborating on **Flutter projects** and freelance work
-- 💬 Ask me about **Flutter, Android, iOS, app architecture and CI/CD**
+- 🤝 I'm open to collaborating on **Mobile projects** and freelance work
+- 💬 Ask me about **Flutter, React native, Android, iOS, app architecture and CI/CD**
 
 ## Tech Stack
 
