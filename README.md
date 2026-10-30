@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Hamza%20Mlaouhi&fontSize=42&fontColor=000000&desc=Senior%20Mobile%20Engineer%20·%20Flutter%20·%20Android%20·%20iOS&descAlignY=72&descSize=16" width="100%" alt="Hamza Mlaouhi banner"/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamzamlaouhiportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-mlaouhi-37b2a01b5/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza0mlaouhi@gmail.com)
 
@@ -9,19 +10,20 @@
 
 ## About Me
 
-I'm a **Senior Mobile Engineer** with **6+ years of experience** building production apps for Android and iOS and I also build the backend services my apps need.
+I'm a **Senior Mobile Engineer** with **6+ years of experience** building production apps for Android and iOS, and I also build the backend services my apps need.
 
 - 📍 Based in **Essen, Germany**
-- 📱 I build cross-platform apps with Flutter,React native for cross-platform plus native Android (Kotlin/Java) and iOS (Swift)
+- 🌐 Portfolio: **[hamzamlaouhiportfolio.netlify.app](https://hamzamlaouhiportfolio.netlify.app)**
+- 📱 I build cross-platform apps with Flutter and React Native, plus native Android (Kotlin/Java) and iOS (Swift)
 - 🛠️ I build backends and APIs with Node.js, Spring and Firebase
-- 🤝 I'm open to collaborating on **Mobile projects** and freelance work
-- 💬 Ask me about **Flutter, React native, Android, iOS, app architecture and CI/CD**
+- 🤝 I'm open to collaborating on **mobile projects** and freelance work
+- 💬 Ask me about **Flutter, React Native, Android, iOS, app architecture and CI/CD**
 
 ## Tech Stack
 
 **Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio" alt="Mobile stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,swift,androidstudio" alt="Mobile stack"/>
 </p>
 
 **Backend & Databases**
